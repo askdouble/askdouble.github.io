@@ -85,9 +85,9 @@ h2 strong.sep-two{
 #middle p{
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 24px;
-	color: #000000;
+	color: #404040;
 	line-height: 34px;
-	padding: 0 30%;
+	padding: 0 20%;
 }
 
 #middle p span{
@@ -106,11 +106,11 @@ height: 62px;
 }
 
 ul.social li{
-float: left;
 background: url(../images/social.png) left top no-repeat;
 position: relative;
 height: 62px;
-margin-right: 28px;
+margin-right: auto;
+margin-left: auto;
 }
 
 ul.social li a{
@@ -167,9 +167,9 @@ background-position: -180px -62px;
 	h1{
 		font-size: 53px;
 	}
-	
+
 	h2{
-		
+
 		font-size: 15px;
 		letter-spacing: 2px;
 	}
@@ -179,7 +179,7 @@ background-position: -180px -62px;
 		margin-left: -40px;
 		margin-top: 7px;
 	}
-	
+
 	h2 strong.sep-two{
 		width: 30px;
 		margin-left: 10px;
@@ -191,18 +191,17 @@ background-position: -180px -62px;
 		width: 90%;
 		padding: 5%;
 	}
-	
+
 	#middle p{
 		font-size: 18px;
 		color: #000000;
 		line-height: 24px;
 		padding: 0;
 	}
-	
+
 	#middle p span{
 		color:#e63b4d;
 	}
 
-	
-}
 
+}
