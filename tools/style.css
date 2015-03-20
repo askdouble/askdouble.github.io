@@ -74,6 +74,10 @@ h2 strong.sep-two{
 	margin-top: 15px;
 }
 
+#brand{
+  font-family: 'Damion', cursive;
+}
+
 
 #middle{
 	width: 100%;
@@ -90,9 +94,9 @@ h2 strong.sep-two{
 	padding: 0 20%;
 }
 
-#middle p span{
+/*#middle p span{
 	color:#e63b4d;
-}
+}*/
 
 #footer{
 	width: 100%;
