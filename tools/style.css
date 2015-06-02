@@ -118,6 +118,10 @@ h2 strong.sep-two{
   padding: 0 20%;
 }
 
+#answer a{
+  color: #404040;
+}
+
 /*#middle p span{
 	color:#e63b4d;
 }*/
