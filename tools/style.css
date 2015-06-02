@@ -76,21 +76,23 @@ h2 strong.sep-two{
 
 #brand{
   font-family: 'Damion', cursive;
+  font-size: 28px;
 }
 
 
 #middle{
 	width: 100%;
-	background: #ffffff;
+	/*background: #ffffff;*/
 	padding: 10px 0;
 	margin: 50px 0;
 }
 
 #middle p{
-	font-family: 'Josefin Sans', sans-serif;
-	font-size: 24px;
-	color: #404040;
-	line-height: 34px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+  font-weight: 300;
+	color: #ffffffff;
+	/*line-height: 34px;*/
 	padding: 0 20%;
 }
 
