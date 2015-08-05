@@ -442,6 +442,7 @@ header .header-content .header-content-inner .sub-text{
     border-width: medium;
     border-color: #f05f40;
     text-align: center;
+    background-color: #fff;
 }
 
 .pricing-box-description {
