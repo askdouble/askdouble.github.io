@@ -390,9 +390,13 @@ header .header-content .header-content-inner .sub-text{
     background-image: none;
 }
 
+ul {
+  padding-left: 20px;
+}
 .do-list {
     text-align: left;
     margin-top: 10px;
+    padding-left: 0;
 }
 
 .do-list:first-child {
@@ -408,7 +412,7 @@ header .header-content .header-content-inner .sub-text{
 
 .center-list {
     margin: 0 auto;
-    width: 60%;
+    width: 80%;
 }
 
 .btn-after {
