@@ -208,7 +208,7 @@ aside {
 
     .navbar-default.affix .nav > li > a,
     .navbar-default.affix .nav > li > a:focus {
-        color: #222;
+        color: #505050;
     }
 
     .navbar-default.affix .nav > li > a:hover,
@@ -697,6 +697,7 @@ body {
 
 .footer-links {
     margin-top: 50px;
+    font-family: sans-serif;
 }
 
 footer span.copyright {
