@@ -45,4 +45,8 @@
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
 
+    var randomSlide = Math.floor(Math.random() * $('#myCarousel .carousel-inner .item').size());
+    $('#myCarousel').carousel(randomSlide);
+    $('#myCarousel').carousel('next');
+
 })(jQuery); // End of use strict
