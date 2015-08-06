@@ -426,6 +426,9 @@ ul {
 
 .section-heading {
     margin-top: 0px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    word-spacing: 5px;
 }
 
 .service-box {
@@ -451,7 +454,7 @@ ul {
 
 .pricing-box-description {
     line-height: 2.0;
-    color: #808080;
+    /*color: #808080;*/
 }
 
 @media(min-width:992px) {
