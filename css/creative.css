@@ -454,7 +454,7 @@ ul {
 
 .pricing-box-description {
     line-height: 2.0;
-    /*color: #808080;*/
+    color: #808080;
 }
 
 @media(min-width:992px) {
