@@ -457,6 +457,7 @@ ul {
 }
 .pricing-box-description .emphasis {
     color : #333333;
+    font-family: 'Montserrat', sans-serif;
 }
 
 @media(min-width:992px) {
