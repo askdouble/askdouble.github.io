@@ -455,6 +455,9 @@ ul {
     line-height: 2.0;
     color: #808080;
 }
+.pricing-box-description .emphasis {
+    color : #333333;
+}
 
 @media(min-width:992px) {
     .service-box {
