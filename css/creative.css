@@ -121,14 +121,17 @@ aside {
     transition: all .35s;
 }
 
-.navbar-default .navbar-header .navbar-brand {
+.navbar-default .navbar-header {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
     font-family: 'Montserrat', sans-serif;
     /*color: #f05f40;*/
     font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
-
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
     color: #eb3812;
