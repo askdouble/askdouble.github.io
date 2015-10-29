@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+    font-family: Merriweather,serif;
 }
 
 hr {
@@ -48,6 +48,7 @@ h5,
 h6 {
     /*font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;*/
     font-family: 'Montserrat', sans-serif;
+    line-height: 1.3;
 }
 
 p {
@@ -55,7 +56,7 @@ p {
     margin-bottom: 20px;
     font-size: 16px;
     line-height: 1.5;
-    text-align: left;
+    text-align: center;
 }
 
 .bg-primary {
@@ -295,6 +296,12 @@ aside {
     }
 }
 
+.scope {
+  padding: 20px;
+  text-align: left;
+  line-height: 2.0;
+}
+
 header {
     position: relative;
     width: 100%;
@@ -325,6 +332,13 @@ header .header-content .header-content-inner h2 {
     margin-bottom: 0;
     font-weight: 700;
     font-size: 45px;
+}
+
+@media(max-width:414px) {
+  header .header-content .header-content-inner h2 {
+    font-weight: 500;
+    font-size: 22px;
+  }
 }
 
 header .header-content .header-content-inner hr {
