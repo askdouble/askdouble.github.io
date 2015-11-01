@@ -296,12 +296,6 @@ aside {
     }
 }
 
-.scope {
-  padding: 20px;
-  text-align: left;
-  line-height: 2.0;
-}
-
 header {
     position: relative;
     width: 100%;
@@ -833,4 +827,19 @@ ul.social-buttons li a:active {
 
 #mc_embed_signup .indicates-required {
   margin-top : 1em;
+}
+
+
+.scope {
+  padding: 20px;
+  text-align: left;
+  line-height: 2.0;
+}
+
+em {
+  color: #ee4b28;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
 }
